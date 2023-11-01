@@ -1,0 +1,8 @@
+C:\Users\nguye\source\repos\AverageOfArray\AverageOfArray\bin\Debug\AverageOfArray.exe.config
+C:\Users\nguye\source\repos\AverageOfArray\AverageOfArray\bin\Debug\AverageOfArray.exe
+C:\Users\nguye\source\repos\AverageOfArray\AverageOfArray\bin\Debug\AverageOfArray.pdb
+C:\Users\nguye\source\repos\AverageOfArray\AverageOfArray\obj\Debug\AverageOfArray.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\AverageOfArray\AverageOfArray\obj\Debug\AverageOfArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\source\repos\AverageOfArray\AverageOfArray\obj\Debug\AverageOfArray.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\AverageOfArray\AverageOfArray\obj\Debug\AverageOfArray.exe
+C:\Users\nguye\source\repos\AverageOfArray\AverageOfArray\obj\Debug\AverageOfArray.pdb
